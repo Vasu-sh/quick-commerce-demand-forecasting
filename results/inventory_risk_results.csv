@@ -1,0 +1,269 @@
+analysis_date,product_id,product_name,category,brand,current_stock,avg_daily_demand,sku_volatility_7d,lead_time_days,safety_stock,reorder_point,stockout_risk_status
+2024-11-04,107548,Cola,Cold Drinks & Juices,"Bhandari, Bhasin and Palan",203,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,112390,Toothpaste,Personal Care,"Kibe, Contractor and Randhawa",209,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,11422,Potatoes,Fruits & Vegetables,Ramaswamy-Tata,184,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,114414,Vitamins,Pharmacy,Kara-Golla,325,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,118820,Iced Tea,Cold Drinks & Juices,"Warrior, Ravel and Amble",220,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,120385,Pet Treats,Pet Care,Dubey-Sarin,447,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,120532,Wheat Flour,Grocery & Staples,Nazareth Ltd,537,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,123983,Cough Syrup,Pharmacy,Kurian-Chhabra,431,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,124290,Lotion,Personal Care,Sachdev Group,170,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,131136,Salt,Grocery & Staples,Deshpande-Rama,447,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,131748,Dog Food,Pet Care,"Shroff, Wason and Dugar",390,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,131937,Frozen Pizza,Instant & Frozen Food,"Varkey, Devi and Ganguly",173,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,133542,Detergent,Household Care,Edwin-Lall,31,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,136533,Eggs,Dairy & Breakfast,"Raghavan, Magar and Shanker",263,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,137909,Cough Syrup,Pharmacy,Dalal PLC,387,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,140154,Shampoo,Personal Care,Malhotra LLC,239,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,140489,Soap,Personal Care,"Biswas, Kapoor and Patel",262,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,14145,Spinach,Fruits & Vegetables,"Thakur, Shah and Pingle",250,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,144124,Detergent,Household Care,Lalla-Srinivasan,210,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,146840,Bread,Dairy & Breakfast,"Bains, Deol and Vaidya",201,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,153019,Onions,Fruits & Vegetables,Aurora LLC,216,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,15314,Cheese,Dairy & Breakfast,Banik-Ratta,204,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,154179,Pain Reliever,Pharmacy,"Barad, Devi and Andra",292,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,171602,Cola,Cold Drinks & Juices,Pal-Sehgal,197,0.57,0.98,2,2.29,3.43,Healthy
+2024-11-04,18035,Dish Soap,Household Care,Ramesh Inc,197,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,183929,Bread,Dairy & Breakfast,"Nagi, Sampath and Khurana",214,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,186168,Dog Food,Pet Care,"Parekh, Lad and Kadakia",319,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,187399,Frozen Pizza,Instant & Frozen Food,Chauhan Inc,229,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,194682,Iced Tea,Cold Drinks & Juices,Sastry-Issac,162,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,196719,Bananas,Fruits & Vegetables,Yogi Group,209,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,217710,Eggs,Dairy & Breakfast,Rout-Sarna,187,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,219598,Shampoo,Personal Care,Arora-Magar,188,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,222892,Tomatoes,Fruits & Vegetables,Ramakrishnan-Ghose,181,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,228286,Cola,Cold Drinks & Juices,Bhattacharyya PLC,220,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,237083,Cough Syrup,Pharmacy,Hayer-Banerjee,386,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,240179,Cough Syrup,Pharmacy,Ram-Suri,469,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,243235,Cat Food,Pet Care,Batta Inc,432,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,256051,Lotion,Personal Care,"Mannan, Naidu and Sama",149,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,256783,Pet Treats,Pet Care,"Basu, Thakur and Rege",373,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,257719,Eggs,Dairy & Breakfast,Chaudhuri PLC,228,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,26060,Vitamins,Pharmacy,Shah and Sons,431,0.86,1.57,2,3.66,5.38,Healthy
+2024-11-04,264803,Vitamins,Pharmacy,Gole-Doshi,408,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,272170,Ice Cream,Instant & Frozen Food,Purohit Group,277,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,274207,Cough Syrup,Pharmacy,"Savant, Batta and Mander",514,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,284460,Potatoes,Fruits & Vegetables,"Ramakrishnan, Anand and Khare",204,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,287070,Wheat Flour,Grocery & Staples,"Gala, Magar and Rajagopal",557,0.29,0.49,2,1.14,1.72,Healthy
+2024-11-04,291238,Chocolates,Snacks & Munchies,"Sinha, Pau and Chhabra",157,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,298985,Vitamins,Pharmacy,"Ramanathan, Joshi and Srinivasan",451,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,300159,Cola,Cold Drinks & Juices,"Basu, Rout and Mistry",212,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,305754,Frozen Vegetables,Instant & Frozen Food,Mammen-Hegde,204,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,306177,Frozen Biryani,Instant & Frozen Food,Som Inc,289,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,313754,Biscuits,Snacks & Munchies,"Swaminathan, Mahal and Dara",232,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,317242,Pulses,Grocery & Staples,Rastogi Group,180,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,319388,Orange Juice,Cold Drinks & Juices,D’Alia-Dey,209,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,324809,Bread,Dairy & Breakfast,Sidhu PLC,233,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,327290,Sugar,Grocery & Staples,Nadkarni Inc,257,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,328457,Mango Drink,Cold Drinks & Juices,Hayre-Shere,241,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,329351,Cheese,Dairy & Breakfast,"Lala, Kalita and Sathe",137,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,336847,Toilet Cleaner,Household Care,"Dayal, Mammen and More",194,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,337168,Eggs,Dairy & Breakfast,Dasgupta PLC,180,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,33797,Pain Reliever,Pharmacy,Gaba LLC,418,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,33955,Frozen Pizza,Instant & Frozen Food,Baral Group,239,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,34186,Mangoes,Fruits & Vegetables,Mandal-Kar,164,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,34200,Lotion,Personal Care,Munshi-Grewal,244,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,349294,Onions,Fruits & Vegetables,Ganesan Ltd,167,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,354409,Pulses,Grocery & Staples,Bose-Pandit,487,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,361361,Biscuits,Snacks & Munchies,"Kunda, Dave and Sahni",185,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,36412,Dish Soap,Household Care,Muni-Shankar,158,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,365132,Instant Noodles,Instant & Frozen Food,Dar-Kumar,260,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,365133,Dish Soap,Household Care,Hans Inc,48,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,366066,Soap,Personal Care,Mandal LLC,222,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,367391,Baby Wipes,Baby Care,Talwar and Sons,245,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,373536,Dog Food,Pet Care,Chauhan-Sabharwal,366,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,376447,Butter,Dairy & Breakfast,Gara and Sons,250,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,378230,Nuts,Snacks & Munchies,Kala-Vig,230,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,378287,Lemonade,Cold Drinks & Juices,Ramesh-Jain,184,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,378676,Orange Juice,Cold Drinks & Juices,Baral-Kamdar,232,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,382511,Butter,Dairy & Breakfast,Bora-Thakkar,175,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,385113,Lotion,Personal Care,"Sampath, Mane and Mody",122,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,39154,Mangoes,Fruits & Vegetables,"Suresh, Bose and Bajwa",210,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,397973,Bananas,Fruits & Vegetables,"Wable, Randhawa and Mutti",182,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,398340,Instant Noodles,Instant & Frozen Food,"Nadig, Zachariah and Soni",176,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,41853,Curd,Dairy & Breakfast,Handa PLC,166,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,425341,Pet Treats,Pet Care,"Mani, Dhar and Muni",430,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,432617,Baby Wipes,Baby Care,Dora-Pillai,454,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,433521,Diapers,Baby Care,Mahal Group,273,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,435929,Toilet Cleaner,Household Care,Memon Ltd,160,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,440875,Baby Wipes,Baby Care,Loyal Inc,403,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,444361,Pain Reliever,Pharmacy,"Prakash, Bawa and Kale",401,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,4452,Baby Wipes,Baby Care,Morar-Mistry,403,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,448752,Toilet Cleaner,Household Care,Batta-Doctor,-8,0.0,0.0,2,0.0,0.0,High Risk
+2024-11-04,449106,Soap,Personal Care,"Shere, Thakur and Naik",225,0.57,1.13,2,2.64,3.78,Healthy
+2024-11-04,451812,Pain Reliever,Pharmacy,"Batra, Sant and Mandal",406,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,451933,Wheat Flour,Grocery & Staples,Nadig Ltd,161,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,455083,Butter,Dairy & Breakfast,Dutta Inc,262,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,455755,Detergent,Household Care,Mangal-Sathe,174,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,461804,Sugar,Grocery & Staples,"Ghose, Ben and Divan",206,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,462526,Curd,Dairy & Breakfast,Pau and Sons,249,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,470449,Frozen Biryani,Instant & Frozen Food,Kohli-Sawhney,171,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,473647,Toothpaste,Personal Care,Ben-Ravi,25,0.43,0.79,2,1.84,2.7,Healthy
+2024-11-04,473929,Carrots,Fruits & Vegetables,"Bhardwaj, Bhatia and Deshmukh",110,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,478531,Carrots,Fruits & Vegetables,Uppal Group,250,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,481843,Chocolates,Snacks & Munchies,"Taneja, Kala and Kota",293,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,487065,Chips,Snacks & Munchies,Kadakia-Yadav,249,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,487931,Sugar,Grocery & Staples,"Bahl, Jaggi and Nath",160,0.57,1.13,2,2.64,3.78,Healthy
+2024-11-04,490602,Sugar,Grocery & Staples,Raghavan Inc,598,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,490939,Lotion,Personal Care,"Roy, Barad and De",285,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,491314,Ice Cream,Instant & Frozen Food,Banerjee Inc,180,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,491521,Nuts,Snacks & Munchies,Karpe Inc,245,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,492958,Lotion,Personal Care,Acharya PLC,170,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,500633,Cereal,Dairy & Breakfast,Trivedi-Ahluwalia,192,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,500739,Bread,Dairy & Breakfast,Aggarwal Group,159,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,51036,Baby Food,Baby Care,Karnik PLC,121,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,513199,Cola,Cold Drinks & Juices,Rastogi Inc,208,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,516376,Onions,Fruits & Vegetables,Agarwal-Dhar,161,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,525531,Dog Food,Pet Care,Sandal PLC,382,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,52729,Cat Food,Pet Care,Saini LLC,491,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,532965,Frozen Pizza,Instant & Frozen Food,Sachdev Inc,248,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,537274,Pet Treats,Pet Care,Lal-Chauhan,449,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,53833,Rice,Grocery & Staples,Tella-Master,197,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,540618,Popcorn,Snacks & Munchies,Golla-Luthra,214,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,542300,Popcorn,Snacks & Munchies,Gulati-Tandon,206,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,552496,Dish Soap,Household Care,Dhar PLC,130,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,552883,Potatoes,Fruits & Vegetables,"Balan, Patel and Mall",248,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,555121,Carrots,Fruits & Vegetables,"Subramanian, Chaudhuri and Dora",229,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,557908,Vitamins,Pharmacy,Sundaram Inc,333,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,561860,Orange Juice,Cold Drinks & Juices,Gupta Ltd,179,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,563740,Chips,Snacks & Munchies,Mann-Kapadia,201,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,564692,Cat Food,Pet Care,"Krishna, Bail and Dyal",352,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,56589,Vitamins,Pharmacy,"Pai, Kashyap and Ramachandran",446,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,566052,Pain Reliever,Pharmacy,"Apte, Soman and Raju",414,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,567671,Biscuits,Snacks & Munchies,Nagar LLC,216,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,57405,Baby Food,Baby Care,Srinivas PLC,343,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,578097,Nuts,Snacks & Munchies,Jha Group,245,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,585299,Pet Treats,Pet Care,"Sharma, Chandra and Prashad",405,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,587420,Cookies,Snacks & Munchies,Raj and Sons,162,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,587645,Vitamins,Pharmacy,"Sura, Pillay and Mammen",303,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,589812,Detergent,Household Care,Bir PLC,305,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,592784,Biscuits,Snacks & Munchies,"Andra, Mander and Kari",146,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,600767,Toothpaste,Personal Care,Balan Group,213,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,602241,Nuts,Snacks & Munchies,Bahl-Pau,222,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,604184,Toilet Cleaner,Household Care,"Gaba, Sodhi and Choudhary",378,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,60619,Iced Tea,Cold Drinks & Juices,Bhasin LLC,173,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,606256,Frozen Biryani,Instant & Frozen Food,Agate Ltd,195,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,611575,Frozen Pizza,Instant & Frozen Food,"Bhat, Nigam and Hayer",196,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,613942,Pet Treats,Pet Care,"Dyal, Saraf and Goel",430,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,615545,Soap,Personal Care,Barman Inc,195,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,621677,Frozen Biryani,Instant & Frozen Food,Sabharwal-Mital,126,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,623234,Frozen Biryani,Instant & Frozen Food,Chakrabarti-Batra,260,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,63769,Lotion,Personal Care,Dalal-Shan,216,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,6405,Baby Food,Baby Care,Kashyap-Reddy,276,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,642612,Pet Treats,Pet Care,Pillay-Ahuja,363,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,644847,Salt,Grocery & Staples,"Jhaveri, Kata and Kapur",184,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,647462,Lotion,Personal Care,"Balan, Samra and Sekhon",230,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,652118,Frozen Biryani,Instant & Frozen Food,Agate and Sons,277,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,654297,Potatoes,Fruits & Vegetables,Chandran-Dass,219,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,654623,Chips,Snacks & Munchies,Pradhan and Sons,217,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,658389,Popcorn,Snacks & Munchies,"Chanda, Som and Vohra",198,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,659290,Cheese,Dairy & Breakfast,Kapadia-D’Alia,183,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,661577,Cat Food,Pet Care,Majumdar PLC,367,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,667163,Orange Juice,Cold Drinks & Juices,Palla LLC,164,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,669378,Potatoes,Fruits & Vegetables,Chadha and Sons,299,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,67197,Butter,Dairy & Breakfast,Shetty-Bora,156,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,672059,Toothpaste,Personal Care,Kaur-Gola,238,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,673058,Cough Syrup,Pharmacy,Balan-Madan,325,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,677169,Cough Syrup,Pharmacy,Char-Divan,455,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,677542,Toilet Cleaner,Household Care,Thaman-Lanka,439,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,679284,Cough Syrup,Pharmacy,Pant LLC,393,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,679321,Cola,Cold Drinks & Juices,Khurana-Dewan,268,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,679865,Wheat Flour,Grocery & Staples,Memon-Barad,205,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,681063,Mango Drink,Cold Drinks & Juices,Dass and Sons,171,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,684939,Lotion,Personal Care,"Sibal, Bhatnagar and Rajan",177,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,687218,Mango Drink,Cold Drinks & Juices,"Sankaran, Pall and Gola",194,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,689769,Frozen Vegetables,Instant & Frozen Food,Kothari-Datta,207,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,690565,Cookies,Snacks & Munchies,"Roy, Seth and Patla",257,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,692985,Pulses,Grocery & Staples,"Wable, Sankaran and Hari",120,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,697683,Toilet Cleaner,Household Care,"Murty, Varghese and Saxena",404,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,700048,Dish Soap,Household Care,Khalsa-Bhavsar,47,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,704868,Detergent,Household Care,"Parikh, Oak and Kara",121,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,706112,Vitamins,Pharmacy,"Magar, Gara and Garg",347,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,707935,Cat Food,Pet Care,"Anne, Mammen and Khatri",345,0.71,1.25,2,2.92,4.34,Healthy
+2024-11-04,70969,Carrots,Fruits & Vegetables,Mohan Group,181,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,709916,Detergent,Household Care,Varkey LLC,-29,0.0,0.0,2,0.0,0.0,High Risk
+2024-11-04,712003,Cola,Cold Drinks & Juices,"Karan, Bandi and Acharya",205,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,712307,Orange Juice,Cold Drinks & Juices,Chana LLC,180,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,714999,Bread,Dairy & Breakfast,Kala Group,222,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,721521,Rice,Grocery & Staples,"Ramanathan, Agarwal and Baria",183,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,723678,Dog Food,Pet Care,"Lall, Datta and Swamy",264,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,726958,Cat Food,Pet Care,Doctor-Patla,463,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,734789,Popcorn,Snacks & Munchies,"Chaudhari, Pant and Singh",269,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,739448,Dish Soap,Household Care,Mand-Choudhry,25,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,739534,Toilet Cleaner,Household Care,"Gera, Narang and Karpe",20,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,741341,Eggs,Dairy & Breakfast,Prasad LLC,218,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,747801,Toilet Cleaner,Household Care,Saha-Vora,186,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,753354,Shampoo,Personal Care,Sant-Mahajan,191,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,757274,Pet Treats,Pet Care,"Minhas, Kapoor and Sethi",475,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,760684,Rice,Grocery & Staples,Kanda-Gupta,545,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,760828,Pet Treats,Pet Care,"Khurana, Khosla and Yohannan",399,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,762527,Biscuits,Snacks & Munchies,"Chad, Yohannan and Chopra",193,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,764014,Salt,Grocery & Staples,"Grewal, Swamy and Dayal",259,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,767398,Dish Soap,Household Care,"Arya, Sundaram and Pingle",-8,0.0,0.0,2,0.0,0.0,High Risk
+2024-11-04,771228,Pet Treats,Pet Care,Raja and Sons,392,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,77308,Onions,Fruits & Vegetables,Ratta-Sagar,271,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,784673,Dog Food,Pet Care,Ramanathan Group,390,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,784827,Baby Wipes,Baby Care,Balakrishnan Ltd,236,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,798639,Eggs,Dairy & Breakfast,Subramaniam LLC,174,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,799459,Vitamins,Pharmacy,"Garg, Kari and Kapur",347,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,799688,Lotion,Personal Care,Arora LLC,245,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,799952,Cheese,Dairy & Breakfast,Padmanabhan-Virk,219,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,803607,Soap,Personal Care,"Kadakia, Mohan and Sathe",215,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,807452,Pulses,Grocery & Staples,Naik Ltd,174,0.43,0.79,2,1.84,2.7,Healthy
+2024-11-04,812607,Potatoes,Fruits & Vegetables,Rege Group,120,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,818522,Cheese,Dairy & Breakfast,Hora-Roy,151,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,818990,Tomatoes,Fruits & Vegetables,Dugar Group,227,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,820541,Toilet Cleaner,Household Care,"Borde, Peri and Upadhyay",179,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,820973,Baby Wipes,Baby Care,Lall LLC,170,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,82484,Baby Food,Baby Care,Mallick PLC,431,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,832348,Biscuits,Snacks & Munchies,Jani-Ram,247,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,833557,Cereal,Dairy & Breakfast,"Gole, Chand and Dada",182,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,837480,Cough Syrup,Pharmacy,Edwin and Sons,497,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,839170,Curd,Dairy & Breakfast,Shetty and Sons,189,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,847349,Potatoes,Fruits & Vegetables,Chhabra-Agrawal,187,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,848226,Tomatoes,Fruits & Vegetables,Barad and Sons,226,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,851978,Vitamins,Pharmacy,Parsa-Bala,414,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,853932,Baby Wipes,Baby Care,Ranganathan-Peri,161,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,859361,Shampoo,Personal Care,Mitter Group,180,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,863930,Shampoo,Personal Care,"Sathe, Agarwal and Dhar",69,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,871592,Carrots,Fruits & Vegetables,"Shankar, Nadkarni and Kumer",261,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,876139,Pulses,Grocery & Staples,Cherian-Dara,468,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,880510,Bread,Dairy & Breakfast,Roy-Char,127,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,883013,Eggs,Dairy & Breakfast,Chahal Group,199,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,888807,Bread,Dairy & Breakfast,Arya Group,163,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,890232,Mango Drink,Cold Drinks & Juices,Jha Group,206,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,890623,Onions,Fruits & Vegetables,"Sangha, Nagar and Varty",266,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,89084,Milk,Dairy & Breakfast,"Wali, Virk and Iyer",271,0.57,0.98,2,2.29,3.43,Healthy
+2024-11-04,891833,Curd,Dairy & Breakfast,Mani PLC,229,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,894539,Dish Soap,Household Care,"Pall, Sule and Sood",45,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,897083,Detergent,Household Care,Dutta-Halder,14,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,901144,Sugar,Grocery & Staples,Deo-Kamdar,288,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,903336,Pulses,Grocery & Staples,"Vaidya, Amble and Palla",560,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,913428,Pet Treats,Pet Care,Narayanan-Kumar,465,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,914071,Chips,Snacks & Munchies,Datta Ltd,194,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,91670,Dish Soap,Household Care,Barman-Ahluwalia,162,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,925482,Frozen Biryani,Instant & Frozen Food,Viswanathan-Sha,200,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,927651,Baby Wipes,Baby Care,Narula Group,241,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,930284,Baby Food,Baby Care,"Garg, Saraf and Dutta",432,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,937542,Wheat Flour,Grocery & Staples,Khurana and Sons,511,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,942001,Cat Food,Pet Care,Acharya Ltd,394,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,94225,Toilet Cleaner,Household Care,"Gulati, Ram and Sarkar",182,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,9436,Toothpaste,Personal Care,Naidu PLC,36,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,945635,Pulses,Grocery & Staples,Balasubramanian PLC,453,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,949818,Biscuits,Snacks & Munchies,Yohannan Inc,195,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,951463,Pet Treats,Pet Care,Balakrishnan-Kaur,410,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,952124,Onions,Fruits & Vegetables,"Wali, Sood and Bala",157,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,952168,Popcorn,Snacks & Munchies,"Krishnamurthy, Sibal and Das",134,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,953175,Baby Food,Baby Care,Sehgal-Nagarajan,410,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,954722,Ice Cream,Instant & Frozen Food,Mohan-Virk,196,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,961614,Chocolates,Snacks & Munchies,Goda Inc,231,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,962054,Orange Juice,Cold Drinks & Juices,Toor-Nagar,231,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,962591,Orange Juice,Cold Drinks & Juices,Murthy-Kaul,244,0.29,0.76,2,1.77,2.35,Healthy
+2024-11-04,965755,Bananas,Fruits & Vegetables,"Doshi, Sarraf and Sama",171,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,968887,Dish Soap,Household Care,Keer-Gill,60,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,969851,Frozen Vegetables,Instant & Frozen Food,"Kara, Sodhi and Bassi",170,0.14,0.38,2,0.89,1.17,Healthy
+2024-11-04,970529,Diapers,Baby Care,"Kurian, Patla and Sanghvi",273,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,990993,Chocolates,Snacks & Munchies,Guha-Subramaniam,150,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,991434,Cookies,Snacks & Munchies,Mital-Oza,213,0.0,0.0,2,0.0,0.0,Healthy
+2024-11-04,992178,Pain Reliever,Pharmacy,Basu and Sons,359,0.43,1.13,2,2.64,3.5,Healthy
+2024-11-04,993331,Pulses,Grocery & Staples,"Parmer, Gola and Yogi",155,0.0,0.0,2,0.0,0.0,Healthy
